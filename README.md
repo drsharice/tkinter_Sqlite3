@@ -8,3 +8,6 @@ Run GuiDB.py to create the sqlite3 database
 
 ### Step 2
 Look in the folder and see if the address_book database is in the folder
+
+
+-![Screenshot](image/addressDB.png)
